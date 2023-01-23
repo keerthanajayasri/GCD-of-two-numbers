@@ -35,7 +35,8 @@ RegisterNumber:  22006582
 
 
 ## Output:
-![gcd of two number](gcd.png)![Screenshot (1)](https://user-images.githubusercontent.com/121163440/213861561-da034a3c-6b25-431a-ad32-b7cfe106e126.png)
+![gcd of two number](gcd.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/121163440/213861561-da034a3c-6b25-431a-ad32-b7cfe106e126.png)
 
 
 
